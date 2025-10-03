@@ -1,0 +1,1 @@
+git add(eklediğin dosyayı takip etmeye başlar), git status(git'in içindekilere bakar) , git log(kodun ayrıntısını commit i add i kimin kodu girdiğini gösterir ,git commit(çalıştırılan kodun işlevini yazmak için kullanılır)
